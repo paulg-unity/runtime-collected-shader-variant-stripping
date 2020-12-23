@@ -1,0 +1,849 @@
+Compiled shader: Skybox/Procedural, pass: <unnamed>, stage: vertex, keywords _SUNDISK_SIMPLE
+Compiled shader: Skybox/Procedural, pass: <unnamed>, stage: fragment, keywords _SUNDISK_SIMPLE
+Compiled shader: Hidden/BlitCopy, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/BlitCopy, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/VideoDecode, pass: YCbCr_To_RGB1, stage: vertex, keywords ADJUST_TO_LINEARSPACE
+Compiled shader: Hidden/VideoDecode, pass: YCbCr_To_RGB1, stage: fragment, keywords ADJUST_TO_LINEARSPACE
+Compiled shader: Hidden/VideoComposite, pass: Default, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/VideoComposite, pass: Default, stage: fragment, keywords <no keywords>
+Compiled shader: UI/Default, pass: Default, stage: vertex, keywords <no keywords>
+Compiled shader: UI/Default, pass: Default, stage: fragment, keywords <no keywords>
+Compiled shader: TextMeshPro/Distance Field, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: TextMeshPro/Distance Field, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _PARALLAXMAP
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: vertex, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: fragment, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: MID/LETT/Standard_No_Depth, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: MID/LETT/Standard_No_Depth, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _DETALUSEUV3_ON
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: vertex, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON _COLOROVERLAY_ON
+Compiled shader: Particles/Standard Unlit, pass: ShadowCaster, stage: fragment, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON _COLOROVERLAY_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _SPECGLOSSMAP
+Compiled shader: Hidden/Nature/Tree Creator Bark Optimized, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/Nature/Tree Creator Bark Optimized, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: vertex, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: fragment, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: vertex, keywords GEOM_TYPE_LEAF INSTANCING_ON LOD_FADE_PERCENTAGE SHADOWS_CUBE
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: fragment, keywords GEOM_TYPE_LEAF INSTANCING_ON SHADOWS_CUBE
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE _ALPHAPREMULTIPLY_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: vertex, keywords GEOM_TYPE_BRANCH INSTANCING_ON LOD_FADE_PERCENTAGE SHADOWS_DEPTH
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: fragment, keywords GEOM_TYPE_BRANCH INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE _ALPHABLEND_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: vertex, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: fragment, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-DeferredReflections, pass: <unnamed>, stage: vertex, keywords UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredReflections, pass: <unnamed>, stage: fragment, keywords UNITY_HDR_ON
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/Panoramic, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/Panoramic, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-MotionVectors, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-MotionVectors, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Aura2/PostProcessShader, pass: <unnamed>, stage: vertex, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING
+Compiled shader: Hidden/Aura2/PostProcessShader, pass: <unnamed>, stage: fragment, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING
+Compiled shader: Hidden/PostProcessing/CopyStd, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/CopyStd, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Copy, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Copy, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/TemporalAntialiasing, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/TemporalAntialiasing, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: CoC Calculation, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: CoC Calculation, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: CoC Temporal Filter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: CoC Temporal Filter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Downsample and Prefilter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Downsample and Prefilter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Bokeh Filter (medium), stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Bokeh Filter (medium), stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Postfilter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Postfilter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Combine, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Combine, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Bloom, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/Uber, pass: <unnamed>, stage: vertex, keywords BLOOM COLOR_GRADING_HDR_3D FINALPASS
+Compiled shader: Hidden/PostProcessing/Uber, pass: <unnamed>, stage: fragment, keywords BLOOM COLOR_GRADING_HDR_3D FINALPASS
+Compiled shader: Hidden/RemoveAlpha, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/RemoveAlpha, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITextureClip, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITextureClip, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITextureClipText, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-GUITextureClipText, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-CombineDepthNormals, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-CombineDepthNormals, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: DAFoliage2018, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: DAFoliage2018, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-Base, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-Base, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-BaseGen, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Splatmap/Diffuse-BaseGen, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/GenerateNormalmap, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/GenerateNormalmap, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Details/WavingDoublePass, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/Nature/Tree Creator Bark Rendertex, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Nature/Tree Creator Bark Rendertex, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Nature/Tree Creator Leaves Rendertex, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Nature/Tree Creator Leaves Rendertex, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Diffuse, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Diffuse, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Nature/Terrain/Diffuse, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _USESNOW_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _EMISSION
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _EMISSION
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_BRANCH INSTANCING_ON LIGHTPROBE_SH LOD_FADE_PERCENTAGE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_BRANCH INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_BRANCH INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_BRANCH INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Particles/Standard Surface, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH SOFTPARTICLES_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Particles/Standard Surface, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH SOFTPARTICLES_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords SPOT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords SPOT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-StencilWrite, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-StencilWrite, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: vertex, keywords GEOM_TYPE_LEAF INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: fragment, keywords GEOM_TYPE_LEAF INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: vertex, keywords GEOM_TYPE_BRANCH INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: fragment, keywords GEOM_TYPE_BRANCH INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _DETALUSEUV3_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Hidden/BlitCopyDepth, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/BlitCopyDepth, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Aura2/StoreShadowDataShader, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Aura2/StoreShadowDataShader, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-ScreenSpaceShadows, pass: <unnamed>, stage: vertex, keywords SHADOWS_SINGLE_CASCADE SHADOWS_SPLIT_SPHERES
+Compiled shader: Hidden/Internal-ScreenSpaceShadows, pass: <unnamed>, stage: fragment, keywords SHADOWS_SINGLE_CASCADE SHADOWS_SPLIT_SPHERES
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords DIRECTIONAL SHADOWS_SCREEN UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords DIRECTIONAL SHADOWS_SCREEN UNITY_HDR_ON
+Compiled shader: Hidden/InternalErrorShader, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/InternalErrorShader, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords DIRECTIONAL LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords DIRECTIONAL LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords SPOT
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords SPOT
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: vertex, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: fragment, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: vertex, keywords SPOT
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: fragment, keywords SPOT
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/Procedural, pass: <unnamed>, stage: vertex, keywords _SUNDISK_HIGH_QUALITY
+Compiled shader: Skybox/Procedural, pass: <unnamed>, stage: fragment, keywords _SUNDISK_HIGH_QUALITY
+Compiled shader: Legacy Shaders/Particles/Alpha Blended, pass: <unnamed>, stage: vertex, keywords SOFTPARTICLES_ON
+Compiled shader: Legacy Shaders/Particles/Alpha Blended, pass: <unnamed>, stage: fragment, keywords SOFTPARTICLES_ON
+Compiled shader: Legacy Shaders/Particles/Additive, pass: <unnamed>, stage: vertex, keywords SOFTPARTICLES_ON
+Compiled shader: Legacy Shaders/Particles/Additive, pass: <unnamed>, stage: fragment, keywords SOFTPARTICLES_ON
+Compiled shader: Ian's Fire Pack/Additive NoRim, pass: <unnamed>, stage: vertex, keywords SOFTPARTICLES_ON
+Compiled shader: Ian's Fire Pack/Additive NoRim, pass: <unnamed>, stage: fragment, keywords SOFTPARTICLES_ON
+Compiled shader: Legacy Shaders/Particles/VertexLit Blended, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Legacy Shaders/Particles/VertexLit Blended, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Ian's Fire Pack/Additive Shimmer, pass: <unnamed>, stage: vertex, keywords SOFTPARTICLES_ON
+Compiled shader: Ian's Fire Pack/Additive Shimmer, pass: <unnamed>, stage: fragment, keywords SOFTPARTICLES_ON
+Compiled shader: Ian's Fire Pack/Additive NoSoft, pass: <unnamed>, stage: vertex, keywords SOFTPARTICLES_ON
+Compiled shader: Ian's Fire Pack/Additive NoSoft, pass: <unnamed>, stage: fragment, keywords SOFTPARTICLES_ON
+Compiled shader: Autodesk Interactive, pass: FORWARD, stage: vertex, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Autodesk Interactive, pass: FORWARD, stage: fragment, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Autodesk Interactive, pass: FORWARD_DELTA, stage: vertex, keywords SPOT _ALPHAPREMULTIPLY_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Autodesk Interactive, pass: FORWARD_DELTA, stage: fragment, keywords SPOT _ALPHAPREMULTIPLY_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Hidden/PostProcessing/Uber, pass: <unnamed>, stage: vertex, keywords BLOOM COLOR_GRADING_HDR_3D
+Compiled shader: Hidden/PostProcessing/Uber, pass: <unnamed>, stage: fragment, keywords BLOOM COLOR_GRADING_HDR_3D
+Compiled shader: Hidden/MID/DistanceBlur, pass: CoC Calculation, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: CoC Calculation, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: CoC Temporal Filter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: CoC Temporal Filter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Downsample and Prefilter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Downsample and Prefilter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Bokeh Filter (small), stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Bokeh Filter (small), stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Postfilter, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Postfilter, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Combine, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/MID/DistanceBlur, pass: Combine, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/FinalPass, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/FinalPass, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords DIRECTIONAL UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords DIRECTIONAL UNITY_HDR_ON
+Compiled shader: Hidden/Internal-MotionVectors, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-MotionVectors, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: vertex, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Particles/Standard Surface, pass: ShadowCaster, stage: fragment, keywords PROCEDURAL_INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree Leaves Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree Leaves Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-Base, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-Base, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-BaseGen, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-BaseGen, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-BaseGen, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-BaseGen, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/Cubemap, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/Cubemap, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-AddPass, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-AddPass, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Hidden/Nature/Tree Creator Bark Optimized, pass: DEFERRED, stage: vertex, keywords BILLBOARD_FACE_CAMERA_POS LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Hidden/Nature/Tree Creator Bark Optimized, pass: DEFERRED, stage: fragment, keywords BILLBOARD_FACE_CAMERA_POS LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _SPECGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree Leaves Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Leaves Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Hidden/Internal-DeferredReflections, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DeferredReflections, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE UNITY_PASS_SHADOWCASTER _USESNOW_ON
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE _NORMALMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords POINT SHADOWS_CUBE SHADOWS_SOFT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords POINT SHADOWS_CUBE SHADOWS_SOFT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords POINT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords POINT UNITY_HDR_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: Hidden/Internal-ScreenSpaceShadows, pass: <unnamed>, stage: vertex, keywords SHADOWS_SINGLE_CASCADE SHADOWS_SPLIT_SPHERES
+Compiled shader: Hidden/Internal-ScreenSpaceShadows, pass: <unnamed>, stage: fragment, keywords SHADOWS_SINGLE_CASCADE SHADOWS_SPLIT_SPHERES
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: FORWARD, stage: vertex, keywords BILLBOARD_FACE_CAMERA_POS DIRECTIONAL LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: FORWARD, stage: fragment, keywords BILLBOARD_FACE_CAMERA_POS DIRECTIONAL LIGHTPROBE_SH SHADOWS_SCREEN
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: FORWARD, stage: vertex, keywords BILLBOARD_FACE_CAMERA_POS DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Hidden/Nature/Tree Creator Leaves Optimized, pass: FORWARD, stage: fragment, keywords BILLBOARD_FACE_CAMERA_POS DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords POINT SHADOWS_CUBE SHADOWS_SOFT
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords POINT SHADOWS_CUBE SHADOWS_SOFT
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords POINT
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords POINT
+Compiled shader: Hidden/TerrainEngine/BillboardTree, pass: <unnamed>, stage: vertex, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING FOG_EXP
+Compiled shader: Hidden/TerrainEngine/BillboardTree, pass: <unnamed>, stage: fragment, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING FOG_EXP
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: Unlit/Color, pass: <unnamed>, stage: vertex, keywords FOG_EXP
+Compiled shader: Unlit/Color, pass: <unnamed>, stage: fragment, keywords FOG_EXP
+Compiled shader: Legacy Shaders/Diffuse, pass: DEFERRED, stage: vertex, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Diffuse, pass: DEFERRED, stage: fragment, keywords DIRLIGHTMAP_COMBINED LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: vertex, keywords SHADOWS_DEPTH SHADOWS_SOFT SPOT UNITY_HDR_ON
+Compiled shader: Hidden/Internal-DeferredShading, pass: <unnamed>, stage: fragment, keywords SHADOWS_DEPTH SHADOWS_SOFT SPOT UNITY_HDR_ON
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: vertex, keywords SHADOWS_CUBE
+Compiled shader: Legacy Shaders/VertexLit, pass: ShadowCaster, stage: fragment, keywords SHADOWS_CUBE
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords SHADOWS_DEPTH SHADOWS_SOFT SPOT
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords SHADOWS_DEPTH SHADOWS_SOFT SPOT
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _SPECGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords DIRECTIONAL LIGHTPROBE_SH SHADOWS_SCREEN VERTEXLIGHT_ON
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Particles/Standard Surface, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH SOFTPARTICLES_ON VERTEXLIGHT_ON _ALPHABLEND_ON
+Compiled shader: Particles/Standard Surface, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP LIGHTPROBE_SH SOFTPARTICLES_ON _ALPHABLEND_ON
+Compiled shader: Legacy Shaders/Particles/Additive (Soft), pass: <unnamed>, stage: vertex, keywords FOG_EXP SOFTPARTICLES_ON
+Compiled shader: Legacy Shaders/Particles/Additive (Soft), pass: <unnamed>, stage: fragment, keywords FOG_EXP SOFTPARTICLES_ON
+Compiled shader: Hidden/CubeBlur, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/CubeBlur, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/CubeCopy, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/CubeCopy, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/CubeBlend, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/CubeBlend, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/DeferredFog, pass: <unnamed>, stage: vertex, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/DeferredFog, pass: <unnamed>, stage: fragment, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Bokeh Filter (small), stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/DepthOfField, pass: Bokeh Filter (small), stage: fragment, keywords <no keywords>
+Compiled shader: UI/Default, pass: Default, stage: vertex, keywords UNITY_UI_CLIP_RECT
+Compiled shader: UI/Default, pass: Default, stage: fragment, keywords UNITY_UI_CLIP_RECT
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHABLEND_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHABLEND_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP SPOT _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP SPOT _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: TextMeshPro/Distance Field, pass: <unnamed>, stage: vertex, keywords UNDERLAY_ON
+Compiled shader: TextMeshPro/Distance Field, pass: <unnamed>, stage: fragment, keywords UNDERLAY_ON
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/Internal-DepthNormalsTexture, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP SPOT _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP SPOT _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP SPOT _ALPHAPREMULTIPLY_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_CUBE
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_CUBE
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: vertex, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: Hidden/TerrainEngine/Details/BillboardWavingDoublePass, pass: FORWARD, stage: fragment, keywords DIRECTIONAL LIGHTPROBE_SH
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: vertex, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: fragment, keywords DIRECTIONAL INSTANCING_ON LIGHTPROBE_SH
+Compiled shader: UI/Default, pass: Default, stage: vertex, keywords UNITY_UI_ALPHACLIP
+Compiled shader: UI/Default, pass: Default, stage: fragment, keywords UNITY_UI_ALPHACLIP
+Compiled shader: Hidden/UI Default (Soft Masked), pass: Default, stage: vertex, keywords SOFTMASK_SIMPLE
+Compiled shader: Hidden/UI Default (Soft Masked), pass: Default, stage: fragment, keywords SOFTMASK_SIMPLE
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords FOG_EXP
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH UNITY_PASS_SHADOWCASTER
+Compiled shader: Hidden/TerrainEngine/GenerateNormalmap, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Hidden/TerrainEngine/GenerateNormalmap, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: vertex, keywords <no keywords>
+Compiled shader: Skybox/6 Sided, pass: <unnamed>, stage: fragment, keywords <no keywords>
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: vertex, keywords FOG_EXP2
+Compiled shader: Hidden/PostProcessing/ScalableAO, pass: <unnamed>, stage: fragment, keywords FOG_EXP2
+Compiled shader: Hidden/PostProcessing/DeferredFog, pass: <unnamed>, stage: vertex, keywords FOG_EXP2
+Compiled shader: Hidden/PostProcessing/DeferredFog, pass: <unnamed>, stage: fragment, keywords FOG_EXP2
+Compiled shader: Unlit/Color, pass: <unnamed>, stage: vertex, keywords FOG_EXP2
+Compiled shader: Unlit/Color, pass: <unnamed>, stage: fragment, keywords FOG_EXP2
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Nature/Terrain/Diffuse, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Nature/Terrain/Diffuse, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-AddPass, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Hidden/TerrainEngine/Splatmap/Standard-AddPass, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Legacy Shaders/Diffuse, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Diffuse, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Grass/Advanced Grass Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Bumped Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Bumped Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _USEDYNAMICSNOWTSTATICMASKF_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _USESNOW_ON
+Compiled shader: NatureManufacture Shaders/Standard Shaders/Standard Metalic Snow, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _USESNOW_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON _DETALUSEUV3_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Autodesk Interactive, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Autodesk Interactive, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular_Square_Shadows, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_PERCENTAGE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH _DETALUSEUV3_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON LOD_FADE_CROSSFADE SHADOWS_DEPTH _DETALUSEUV3_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+Compiled shader: Hidden/TerrainEngine/BillboardTree, pass: <unnamed>, stage: vertex, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING FOG_EXP2
+Compiled shader: Hidden/TerrainEngine/BillboardTree, pass: <unnamed>, stage: fragment, keywords AURA AURA_USE_CUBIC_FILTERING AURA_USE_DITHERING FOG_EXP2
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2
+Compiled shader: NatureManufacture Shaders/Standard Specular Foliage, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Particles/Additive_Custom, pass: <unnamed>, stage: vertex, keywords FOG_EXP2 SOFTPARTICLES_ON
+Compiled shader: Particles/Additive_Custom, pass: <unnamed>, stage: fragment, keywords FOG_EXP2 SOFTPARTICLES_ON
+Compiled shader: Custom/MultiPageBook, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Custom/MultiPageBook, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _EMISSION
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHABLEND_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _DETAIL_MULX2 _NORMALMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _SPECGLOSSMAP
+Compiled shader: Standard (Specular setup), pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _SPECGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _PARALLAXMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _METALLICGLOSSMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON
+Compiled shader: NDF/Two Sided, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Bumped Diffuse, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: vertex, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: Legacy Shaders/Specular, pass: DEFERRED, stage: fragment, keywords LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords LIGHTMAP_ON UNITY_HDR_ON
+Compiled shader: Standard, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _EMISSION _SPECULARHIGHLIGHTS_OFF
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON UNITY_HDR_ON _ALPHATEST_ON _NORMALMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHATEST_ON
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _METALLICGLOSSMAP
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH
+Compiled shader: NDF/Two Sided, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: vertex, keywords GEOM_TYPE_LEAF INSTANCING_ON LOD_FADE_PERCENTAGE SHADOWS_DEPTH
+Compiled shader: Nature/SpeedTree, pass: <unnamed>, stage: fragment, keywords GEOM_TYPE_LEAF INSTANCING_ON SHADOWS_DEPTH
+Compiled shader: Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_DEPTH _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords DIRECTIONAL FOG_EXP2 _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 LIGHTMAP_ON _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP2 SPOT _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP2 SPOT _ALPHABLEND_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP2 POINT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP2 POINT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP2 SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP2 SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECULARHIGHLIGHTS_OFF
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: vertex, keywords FOG_EXP2 SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD_DELTA, stage: fragment, keywords FOG_EXP2 SPOT _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTMAP_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP
+Compiled shader: Standard, pass: FORWARD, stage: vertex, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: Standard, pass: FORWARD, stage: fragment, keywords DIRECTIONAL FOG_EXP2 INSTANCING_ON LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: vertex, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Autodesk Interactive, pass: ShadowCaster, stage: fragment, keywords SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP _PARALLAXMAP
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE _NORMALMAP
+Compiled shader: Nature/Terrain/Standard, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE _NORMALMAP
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: vertex, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: NatureManufacture Shaders/Trees/Cross Model Shader, pass: ShadowCaster, stage: fragment, keywords INSTANCING_ON SHADOWS_CUBE
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: vertex, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON SHADOWS_SCREEN
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: fragment, keywords DIRECTIONAL INSTANCING_ON LIGHTMAP_ON SHADOWS_SCREEN
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: vertex, keywords DIRECTIONAL
+Compiled shader: DAFoliage2018, pass: FORWARD, stage: fragment, keywords DIRECTIONAL
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: vertex, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH LOD_FADE_PERCENTAGE UNITY_HDR_ON
+Compiled shader: Nature/SpeedTree, pass: DEFERRED, stage: fragment, keywords EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF INSTANCING_ON LIGHTPROBE_SH UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree Bark Metalic, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: vertex, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON
+Compiled shader: NatureManufacture Shaders/Trees/Tree_Leaves_Specular, pass: DEFERRED, stage: fragment, keywords INSTANCING_ON LIGHTMAP_ON LOD_FADE_CROSSFADE UNITY_HDR_ON

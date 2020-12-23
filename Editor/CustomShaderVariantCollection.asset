@@ -1,0 +1,2287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5e9431f11fe74844af124c91665d2d1, type: 3}
+  m_Name: CustomShaderVariantCollection
+  m_EditorClassIdentifier: 
+  enabled: 1
+  text: {fileID: 4900000, guid: d4b05a53b816947bfba7f6801b7f4319, type: 3}
+  shaders:
+  - {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 66, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 16001, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 16000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
+  - {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 21ed28aebc1adca4791f62bfab5921b3, type: 3}
+  - {fileID: 4800000, guid: 6a9695189fcec7349bd98f85d6cf8f85, type: 3}
+  - {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 88e05d1d051dbe14da3257013071561a, type: 3}
+  - {fileID: 4800000, guid: a69d5225f8bd70341b4b06cb7b58e430, type: 3}
+  - {fileID: 10604, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 210, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 14000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 47, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: a1c955eddea1e0f4e9c4673c479e80dc, type: 3}
+  - {fileID: 10605, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: ac52aff10d15bf8499822f24a70aeee5, type: 3}
+  - {fileID: 10623, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: d7640629310e79646af0f46eb55ae466, type: 3}
+  - {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 108, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 75, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 50255fa344dbd814c910fdafc5692b09, type: 3}
+  - {fileID: 4800000, guid: 4bf4cff0d0bac3d43894e2e8839feb40, type: 3}
+  - {fileID: 4800000, guid: cdbdb71de5f9c454b980f6d0e87f0afb, type: 3}
+  - {fileID: 4800000, guid: 51bcf79c50dc92e47ba87821b61100c3, type: 3}
+  - {fileID: 4800000, guid: 0ef78d24e85a44f4da9d5b5eaa00e50b, type: 3}
+  - {fileID: 4800000, guid: c1e1d3119c6fd4646aea0b4b74cacc1a, type: 3}
+  - {fileID: 4800000, guid: 382151503e2a43a4ebb7366d1632731d, type: 3}
+  - {fileID: 4800000, guid: 958c639bb22be2b4483a8b1f940e93fb, type: 3}
+  - {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 65, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10505, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 10b2447025ed25c4285f3ae1ec7a4fba, type: 3}
+  - {fileID: 4800000, guid: e7e3fa6205f1c3b4999f678b922e5301, type: 3}
+  - {fileID: 10504, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10506, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 18002, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10502, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10501, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10602, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10603, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 61f0cc42c3256be4fac57ffd89e8843e, type: 3}
+  - {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 19, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 67, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: fff19db2423616b4dbabe995cd97279e, type: 3}
+  - {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 17, guid: 0000000000000000e000000000000000, type: 0}
+  - {fileID: 62, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 18f1c185fdc31429ca178584d90ee26c, type: 3}
+  - {fileID: 208, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 1258d5e351cba422290d146f4a9a071f, type: 3}
+  - {fileID: 4800000, guid: a93b77f8b84044630abd67348928a0a5, type: 3}
+  - {fileID: 4800000, guid: c553628ea8c42e24d8a61dd1559f4e24, type: 3}
+  - {fileID: 4800000, guid: f75014305794b3948a3c6d5ccd550e05, type: 3}
+  - {fileID: 4800000, guid: 3ac8f0f969db81d4aab57fe4a28db9c3, type: 3}
+  - {fileID: 10625, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10626, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10624, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: c26d9f8601872a0448599193c4254402, type: 3}
+  - {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 202, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 4117fce9491711c4094d33a048e36e73, type: 3}
+  - {fileID: 4800000, guid: 8d19bf0a0d7a69643b050c159096b413, type: 3}
+  - {fileID: 4800000, guid: c22fca0a04284b84396afa0233ce792b, type: 3}
+  - {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 3, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 6861f4d5353bd5b42b50ff93e2e5d375, type: 3}
+  - {fileID: 4800000, guid: 93f96a4e686b3314d8d356a6b2c02f64, type: 3}
+  shaderEntries:
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - _SUNDISK_SIMPLE
+      - keywords:
+        - _SUNDISK_HIGH_QUALITY
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - YCbCr_To_RGB1
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - ADJUST_TO_LINEARSPACE
+  - passNames:
+    - Default
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - Default
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - UNITY_UI_CLIP_RECT
+      - keywords:
+        - UNITY_UI_ALPHACLIP
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - UNDERLAY_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    - FORWARD
+    - FORWARD_DELTA
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - SHADOWS_CUBE
+      - keywords:
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHABLEND_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHABLEND_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _EMISSION
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _PARALLAXMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _EMISSION
+        - _SPECULARHIGHLIGHTS_OFF
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+        - _ALPHABLEND_ON
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHABLEND_ON
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHABLEND_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+        - _ALPHABLEND_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - FOG_EXP
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - FOG_EXP
+        - SPOT
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHABLEND_ON
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHABLEND_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHABLEND_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+      - keywords:
+        - FOG_EXP2
+        - SPOT
+        - _ALPHABLEND_ON
+      - keywords:
+        - FOG_EXP2
+        - POINT
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - FOG_EXP2
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - FOG_EXP2
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - PROCEDURAL_INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+      - keywords:
+        - PROCEDURAL_INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+        - _COLOROVERLAY_ON
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+      - keywords:
+        - SHADOWS_CUBE
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    - FORWARD
+    - FORWARD_DELTA
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - _METALLICGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _NORMALMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _NORMALMAP
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTPROBE_SH
+        - _ALPHABLEND_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP
+        - SPOT
+        - _ALPHABLEND_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - FOG_EXP
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHABLEND_ON
+        - _SPECULARHIGHLIGHTS_OFF
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - _ALPHAPREMULTIPLY_ON
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _SPECGLOSSMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        - _SPECGLOSSMAP
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _SPECGLOSSMAP
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _EMISSION
+        - _NORMALMAP
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+        - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _DETAIL_MULX2
+        - _NORMALMAP
+        - _SPECGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _SPECGLOSSMAP
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+      - keywords:
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_CUBE
+      - keywords:
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+        - _DETALUSEUV3_ON
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+        - _DETALUSEUV3_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - BILLBOARD_FACE_CAMERA_POS
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    - FORWARD
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - PROCEDURAL_INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHABLEND_ON
+      - keywords:
+        - PROCEDURAL_INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+      - keywords:
+        - PROCEDURAL_INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - SOFTPARTICLES_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP
+        - LIGHTPROBE_SH
+        - SOFTPARTICLES_ON
+        - _ALPHABLEND_ON
+  - passNames:
+    - <unnamed>
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+      - keywords:
+        - GEOM_TYPE_BRANCH
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+      - keywords:
+        - GEOM_TYPE_BRANCH
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+      - keywords:
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - EFFECT_BUMP
+        - EFFECT_HUE_VARIATION
+        - GEOM_TYPE_BRANCH
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - EFFECT_BUMP
+        - EFFECT_HUE_VARIATION
+        - GEOM_TYPE_BRANCH
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - EFFECT_BUMP
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - EFFECT_BUMP
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - EFFECT_BUMP
+        - EFFECT_HUE_VARIATION
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - EFFECT_BUMP
+        - EFFECT_HUE_VARIATION
+        - GEOM_TYPE_LEAF
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    - FORWARD
+    - FORWARD_DELTA
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _ALPHAPREMULTIPLY_ON
+        - _METALLICGLOSSMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+      - keywords:
+        - SHADOWS_DEPTH
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _PARALLAXMAP
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - _ALPHAPREMULTIPLY_ON
+        - _DETAIL_MULX2
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECGLOSSMAP
+    - keywordEntries:
+      - keywords:
+        - SPOT
+        - _ALPHAPREMULTIPLY_ON
+        - _DETAIL_MULX2
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _SPECGLOSSMAP
+    - keywordEntries:
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _ALPHATEST_ON
+        - _METALLICGLOSSMAP
+        - _NORMALMAP
+        - _PARALLAXMAP
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - LOD_FADE_CROSSFADE
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    - FORWARD
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - BILLBOARD_FACE_CAMERA_POS
+        - DIRECTIONAL
+        - LIGHTPROBE_SH
+        - SHADOWS_SCREEN
+      - keywords:
+        - BILLBOARD_FACE_CAMERA_POS
+        - DIRECTIONAL
+        - LIGHTPROBE_SH
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - UNITY_PASS_SHADOWCASTER
+        - _USESNOW_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - UNITY_PASS_SHADOWCASTER
+        - _USESNOW_ON
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - UNITY_PASS_SHADOWCASTER
+        - _USEDYNAMICSNOWTSTATICMASKF_ON
+        - _USESNOW_ON
+      - keywords:
+        - SHADOWS_CUBE
+        - UNITY_PASS_SHADOWCASTER
+        - _USESNOW_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - UNITY_PASS_SHADOWCASTER
+        - _USEDYNAMICSNOWTSTATICMASKF_ON
+        - _USESNOW_ON
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _USESNOW_ON
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _USEDYNAMICSNOWTSTATICMASKF_ON
+        - _USESNOW_ON
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _USESNOW_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _USEDYNAMICSNOWTSTATICMASKF_ON
+        - _USESNOW_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _USESNOW_ON
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - SHADOWS_DEPTH
+      - keywords:
+        - SHADOWS_DEPTH
+        - _NORMALMAP
+      - keywords:
+        - SHADOWS_CUBE
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+        - _NORMALMAP
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - FOG_EXP
+      - keywords:
+        - FOG_EXP
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - FOG_EXP2
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - UNITY_HDR_ON
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - AURA
+        - AURA_USE_CUBIC_FILTERING
+        - AURA_USE_DITHERING
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - CoC Calculation
+    - CoC Temporal Filter
+    - Downsample and Prefilter
+    - Bokeh Filter (medium)
+    - Postfilter
+    - Combine
+    - Bokeh Filter (small)
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - BLOOM
+        - COLOR_GRADING_HDR_3D
+        - FINALPASS
+      - keywords:
+        - BLOOM
+        - COLOR_GRADING_HDR_3D
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+        - _NORMALMAP
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+  - passNames:
+    - ShadowCaster
+    - FORWARD
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - SHADOWS_SCREEN
+      - keywords:
+        - SPOT
+      - keywords:
+        - DIRECTIONAL
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+      - keywords:
+        - DIRECTIONAL
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - SHADOWS_SCREEN
+      - keywords:
+        - DIRECTIONAL
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_CUBE
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - ShadowCaster
+    - FORWARD
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - LIGHTPROBE_SH
+        - SHADOWS_SCREEN
+      - keywords:
+        - SPOT
+      - keywords:
+        - POINT
+        - SHADOWS_CUBE
+        - SHADOWS_SOFT
+      - keywords:
+        - POINT
+      - keywords:
+        - SHADOWS_DEPTH
+        - SHADOWS_SOFT
+        - SPOT
+      - keywords:
+        - DIRECTIONAL
+        - LIGHTPROBE_SH
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - LOD_FADE_CROSSFADE
+        - UNITY_HDR_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SPOT
+        - UNITY_HDR_ON
+      - keywords:
+        - DIRECTIONAL
+        - SHADOWS_SCREEN
+        - UNITY_HDR_ON
+      - keywords:
+        - DIRECTIONAL
+        - UNITY_HDR_ON
+      - keywords:
+        - POINT
+        - SHADOWS_CUBE
+        - SHADOWS_SOFT
+        - UNITY_HDR_ON
+      - keywords:
+        - POINT
+        - UNITY_HDR_ON
+      - keywords:
+        - SHADOWS_DEPTH
+        - SHADOWS_SOFT
+        - SPOT
+        - UNITY_HDR_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_SINGLE_CASCADE
+        - SHADOWS_SPLIT_SPHERES
+      - keywords:
+        - SHADOWS_SINGLE_CASCADE
+        - SHADOWS_SPLIT_SPHERES
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTPARTICLES_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTPARTICLES_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTPARTICLES_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTPARTICLES_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTPARTICLES_ON
+  - passNames:
+    - CoC Calculation
+    - CoC Temporal Filter
+    - Downsample and Prefilter
+    - Bokeh Filter (small)
+    - Postfilter
+    - Combine
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - ShadowCaster
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - SHADOWS_DEPTH
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+  - passNames:
+    - ShadowCaster
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+        - _NORMALMAP
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+        - _NORMALMAP
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - AURA
+        - AURA_USE_CUBIC_FILTERING
+        - AURA_USE_DITHERING
+        - FOG_EXP
+      - keywords:
+        - AURA
+        - AURA_USE_CUBIC_FILTERING
+        - AURA_USE_DITHERING
+        - FOG_EXP2
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP
+      - keywords:
+        - FOG_EXP2
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - DIRLIGHTMAP_COMBINED
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP
+        - SOFTPARTICLES_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP
+      - keywords:
+        - FOG_EXP2
+  - passNames:
+    - Default
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SOFTMASK_SIMPLE
+  - passNames:
+    - ShadowCaster
+    - FORWARD
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - SHADOWS_DEPTH
+        - UNITY_PASS_SHADOWCASTER
+    - keywordEntries:
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+        - LIGHTMAP_ON
+      - keywords:
+        - DIRECTIONAL
+        - FOG_EXP2
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+      - keywords:
+        - <no keywords>
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - INSTANCING_ON
+        - LIGHTMAP_ON
+        - UNITY_HDR_ON
+  - passNames:
+    - <unnamed>
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - FOG_EXP2
+        - SOFTPARTICLES_ON
+  - passNames:
+    - DEFERRED
+    keywordSets:
+    - keywordEntries:
+      - keywords:
+        - LIGHTPROBE_SH
+        - UNITY_HDR_ON
